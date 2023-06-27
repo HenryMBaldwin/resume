@@ -1,4 +1,4 @@
 # My Resume Written in LaTex
-![resume screenshot](https://github.com/HenryMBaldwin/resume/assets/67980579/a716b475-6cfc-4264-b496-a096625af0b2)
+[Download](https://henrymbaldwin.com/resume/HenryBaldwin_Resume.pdf)
+![resume screenshot](https://github.com/HenryMBaldwin/resume/assets/67980579/1666e33d-b2fe-47bd-beba-99c1f6a3686b)
 
-My resume written in LaTeX.
